@@ -1,0 +1,17 @@
+  'scopeName': 'source.focus'
+  'fileTypes': [
+    'focus',
+    'fs'
+  ]
+  'name': 'M-APL'
+  'patterns':
+  {
+    'include': '#operators'
+  }
+  'repository':
+    'operators':
+    'patterns': [
+      {
+        'name': 'keyword.operator.mapl'
+        'match': '(\\+|&|\\+=|&=|&&|==|!=|\\(|\\)|\\-|\\||\\-=|\\|=|\\|\\||<|<=|\\[|\\]|\\*|\\^|\\*=|\\^=|<\\-|>|>=|\\{|\\}|/|<<|/=|<<=|\\+\\+|=|:=|,|;|%|>>|%=|>>=|\\-\\-|!|\\.\\.\\.|\\.|:|&\\^|&\\^=)'
+      }

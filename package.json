@@ -1,0 +1,14 @@
+{
+  "name": "languange-mapl",
+  "version": "0.0.0",
+  "description": "Language Support for MEDITECH M-APL",
+  "repository":  {
+    "type": "git",
+    "url": "https://github.com/glabonte-MT/language-mapl.git"},
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
